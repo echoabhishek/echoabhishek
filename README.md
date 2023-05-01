@@ -21,7 +21,7 @@
   - 💼 [LinkedIn](https://www.linkedin.com/in/echoabhishek/)
   - 📹 [Instagram](https://www.instagram.com/echo.abhishek/)
 
-<br /><hr /><br />
+<br />
 
 ## 🚀 Languages and Tools:
 
@@ -46,7 +46,7 @@
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img height="35" src="https://img.icons8.com/color/48/000000/spring-logo.png"/></a>
 </p>
 
-<br /><hr /><br />
+<br />
 
 ## 📊 My Github Stats
 
@@ -61,7 +61,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=echoabhishek&repo=echoabhishek.github.io&theme=react&count_private=true" />
 -->
 
-<br /><hr /><br />
+<br />
 
 ## Connect with me:
 <p align="left">
